@@ -20,3 +20,18 @@ nav {
   margin: var(--spacing-1);
   padding: 0.5rem 0.5rem;
 }
+/*details {
+  cursor: pointer;
+}*/
+.project-title h3{
+  display: inline;
+}
+.project-image {
+  width: 50px;
+  height: 50px;
+}
+.skill-item {
+  list-style-type: none;
+  display: inline;
+  padding: 0.5rem 0.5rem;
+}
